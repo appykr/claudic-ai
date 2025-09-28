@@ -14,18 +14,15 @@ To run this project, you will need to add the following environment variables to
 Create a virtual environement
 ```bash
   python3 -m venv venv
-  
 ```
 Activate your virtual environement
 ```bash
   source venv/bin/activate
-  
 ```
 Install the dependecies
 
 ```bash
   pip3 install openai requests
-  
 ```
 
 Execute the script
