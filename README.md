@@ -10,6 +10,10 @@ To run this project, you will need to add the following environment variables to
 `OPENAI_API_KEY`
 
 ## Installation
+Clone the repository
+```bash
+  git clone <repo link>
+```
 
 Create a virtual environement
 ```bash
